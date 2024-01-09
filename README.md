@@ -11,13 +11,14 @@ My Rhino-Grasshopper codes generate the 3D energy/daylight simulation model of a
 # Software requirements
 The file format is ".gh", which indicates a code developed in Grasshopper. To open the file the user needs to install Rhino3D.
 
-• for Windows: - Rhino 6 or later, in which the Grasshopper is included.
+• for Windows: 
+- Rhino 6 or later, in which the Grasshopper is included.
+- Rhino 5 and Grasshopper (download Grasshopper for Rhino 5 here: https://www.rhino3d.com/download/Grasshopper/1.0/wip/rc/)
+- Rhino 4 and Grasshopper (download Grasshopper for Rhino 4 here: https://files.mcneel.com/grasshopper/1.0/2012-09-28/wip/grasshopper_wip_20120928.exe)
 
-	       - Rhino 5 and Grasshopper (download Grasshopper for Rhino 5 here: https://www.rhino3d.com/download/Grasshopper/1.0/wip/rc/)
-	      
-	       - Rhino 4 and Grasshopper (download Grasshopper for Rhino 4 here: https://files.mcneel.com/grasshopper/1.0/2012-09-28/wip/grasshopper_wip_20120928.exe)
+• for iOS: 
+- Rhino 5 and later, in which the Grasshopper is included.
 
-• for iOS: - Rhino 5 and later, in which the Grasshopper is included.
 The daylight and energy simulations were performed using ClimateStudio v1.8: https://www.solemma.com/climatestudio
 
 # Hardware requirements
