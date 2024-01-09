@@ -1,6 +1,8 @@
 # LightBudget project
 LightBudget is a collaborative project funded by Nouvelle politique régionale (NPR) and five leading industrial partners active in the Swiss construction sector. The LightBudget seeks design and construction techniques to balance daylight autonomy and whole-life carbon emissions, aligning with net-zero goals. For more information:
+
 https://www.innosquare.com/fr/projets-realises/projets-collaboratifs-npr-2020-2023/light-budget/
+
 https://www.innosquare.com/media/zpshevq5/light-budget_fiche_descriptive_pcs.pdf
 
 # Description
